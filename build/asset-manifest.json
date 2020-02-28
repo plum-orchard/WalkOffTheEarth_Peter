@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/kmacaraeg/walk-off-the-earth/static/css/main.9e18d85f.chunk.css",
+    "main.js": "/kmacaraeg/walk-off-the-earth/static/js/main.bde767da.chunk.js",
+    "main.js.map": "/kmacaraeg/walk-off-the-earth/static/js/main.bde767da.chunk.js.map",
+    "runtime-main.js": "/kmacaraeg/walk-off-the-earth/static/js/runtime-main.838d8079.js",
+    "runtime-main.js.map": "/kmacaraeg/walk-off-the-earth/static/js/runtime-main.838d8079.js.map",
+    "static/css/2.e334abbf.chunk.css": "/kmacaraeg/walk-off-the-earth/static/css/2.e334abbf.chunk.css",
+    "static/js/2.f7ed4a47.chunk.js": "/kmacaraeg/walk-off-the-earth/static/js/2.f7ed4a47.chunk.js",
+    "static/js/2.f7ed4a47.chunk.js.map": "/kmacaraeg/walk-off-the-earth/static/js/2.f7ed4a47.chunk.js.map",
+    "index.html": "/kmacaraeg/walk-off-the-earth/index.html",
+    "precache-manifest.44cb78cd44801ae579576109dcebb767.js": "/kmacaraeg/walk-off-the-earth/precache-manifest.44cb78cd44801ae579576109dcebb767.js",
+    "service-worker.js": "/kmacaraeg/walk-off-the-earth/service-worker.js",
+    "static/css/2.e334abbf.chunk.css.map": "/kmacaraeg/walk-off-the-earth/static/css/2.e334abbf.chunk.css.map",
+    "static/css/main.9e18d85f.chunk.css.map": "/kmacaraeg/walk-off-the-earth/static/css/main.9e18d85f.chunk.css.map",
+    "static/js/2.f7ed4a47.chunk.js.LICENSE": "/kmacaraeg/walk-off-the-earth/static/js/2.f7ed4a47.chunk.js.LICENSE",
+    "static/media/ap.svg": "/kmacaraeg/walk-off-the-earth/static/media/ap.055791fe.svg",
+    "static/media/fb.svg": "/kmacaraeg/walk-off-the-earth/static/media/fb.137da08d.svg",
+    "static/media/home.svg": "/kmacaraeg/walk-off-the-earth/static/media/home.9b6c17d8.svg",
+    "static/media/ig.svg": "/kmacaraeg/walk-off-the-earth/static/media/ig.5578047d.svg",
+    "static/media/sp.svg": "/kmacaraeg/walk-off-the-earth/static/media/sp.36bd3793.svg",
+    "static/media/tw.svg": "/kmacaraeg/walk-off-the-earth/static/media/tw.217ac43a.svg",
+    "static/media/yt.svg": "/kmacaraeg/walk-off-the-earth/static/media/yt.51e766d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838d8079.js",
+    "static/css/2.e334abbf.chunk.css",
+    "static/js/2.f7ed4a47.chunk.js",
+    "static/css/main.9e18d85f.chunk.css",
+    "static/js/main.bde767da.chunk.js"
+  ]
+}
